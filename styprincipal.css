@@ -1,0 +1,56 @@
+style{
+
+}
+
+.contenedor{
+
+    background-color: rgb(162, 153, 153);
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top:5px;
+    left: 300px;
+
+}
+h2{
+    position: relative;
+    left: 20px;
+    top: 18px;
+}
+#parte1{
+
+    background-color: black;
+    color: aliceblue;
+    
+    
+}
+
+#parte2{
+
+    display: grid;
+    grid-template-columns: 220px 220px 220px;
+
+    margin: 4%;
+}
+
+img{
+
+    height: 190px;
+    width: 160px;
+
+}
+
+#parte3{
+
+    background-color: black;
+    color: aliceblue;
+    display: grid;
+    grid-template-columns: 400px 400px;
+
+}
+a{
+    color: aliceblue;
+}

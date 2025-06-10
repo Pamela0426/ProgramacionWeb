@@ -1,0 +1,65 @@
+style{
+    
+
+}
+
+.contenedor{
+    
+    background-color: rgb(112, 110, 110);
+    margin: 2%;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top:15px;
+    left: 250px;
+}
+
+
+h2{
+    position: relative;
+    left: 20px;
+    top: 2px;
+}
+
+#parte1{
+    display: grid;
+    grid-template-columns: 300px 300px;
+   
+    margin-bottom: 10px;
+    background-color: black;
+    color: aliceblue;
+    
+    
+
+}
+
+#parte2{
+    
+    display: grid;
+    grid-template-columns: 180px 180px;
+
+    
+    color: aliceblue;
+    font-family: 'seoge';
+    font-size: 20px; 
+    margin-left: 30%;
+
+}
+
+input{
+    display: grid;
+    grid-template-rows: 150px 150px;
+    
+    height: 15px;
+    width: 80px;
+    margin-top: 10%;
+    
+
+}
+button{
+    margin: 10%;
+    margin-left: 15%;
+}
